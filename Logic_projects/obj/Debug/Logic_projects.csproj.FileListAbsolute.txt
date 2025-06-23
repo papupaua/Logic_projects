@@ -1,0 +1,5 @@
+C:\Users\ilya\source\repos\Logic_projects\Logic_projects\obj\Debug\Logic_projects.csproj.AssemblyReference.cache
+C:\Users\ilya\source\repos\Logic_projects\Logic_projects\obj\Debug\MainWindow.g.cs
+C:\Users\ilya\source\repos\Logic_projects\Logic_projects\obj\Debug\App.g.cs
+C:\Users\ilya\source\repos\Logic_projects\Logic_projects\obj\Debug\Logic_projects_MarkupCompile.cache
+C:\Users\ilya\source\repos\Logic_projects\Logic_projects\obj\Debug\Logic_projects_MarkupCompile.lref
